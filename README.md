@@ -1,4 +1,4 @@
-tung Keliling, Luas, dan Volume
+# Program Hitung Keliling, Luas, dan Volume
 
 Program Sederhana untuk Menghitung Keliling, Luas, dan Volume
 
@@ -19,6 +19,7 @@ WSL/Terminal UNIX
 
 ### Executing program
 > ./program_kubus.sh
+
 
 ## Authors
 Zulkarnain Prastyo (https://www.linkedin.com/in/zulkarnain-prastyo/)
